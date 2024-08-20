@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: 'Interest & Hobbies'
+date: 2024-08-17
+permalink: /posts/
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+<div style="text-align: center;">
+  <img src="/path/to/image1.jpg" alt="Interest" style="width: 45%; margin: 5px;" />
+  <img src="/path/to/image2.jpg" alt="Students" style="width: 45%; margin: 5px;" />
+</div>
