@@ -1,6 +1,7 @@
 ---
 title: Awards
-collection: portfolio
+permalink: /portfolio/
+author_profile: true
 ---
 
 <ul>
