@@ -1,6 +1,5 @@
 ---
-title: "Publications"
-collection: publications
+title: Publications
 permalink: /publication/
 date: 2024-08-17
 ---
