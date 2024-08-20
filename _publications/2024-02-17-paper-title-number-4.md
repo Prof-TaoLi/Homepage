@@ -2,7 +2,6 @@
 title: "Publications"
 collection: publications
 permalink: /publication/
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-08-17
 ---
 1. Meng Li, Tao Li, Lili Yu. 2024. <a href="http://example.com">Retail Platform Analytics: Practice, Literature, and Future Research.</a> Production and Operations Management. Forthcoming.
