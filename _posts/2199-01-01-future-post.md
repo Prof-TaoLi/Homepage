@@ -1,5 +1,5 @@
 ---
-title: 'Interest & Hobbies'
+title: Interest & Hobbies
 date: 2024-08-17
 permalink: /posts/
 ---
