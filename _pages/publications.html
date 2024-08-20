@@ -11,3 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Check if there is a publication -->
+{% if site.publications.size > 0 %}
+  {% assign publication = site.publications[0] %}
+{% else %}
+  <p>No publications found.</p>
+{% endif %}
+
