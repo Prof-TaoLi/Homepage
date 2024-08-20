@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 collection: publications
+permalink: /publication/
 category: manuscripts
 date: 2024-08-17
 ---
