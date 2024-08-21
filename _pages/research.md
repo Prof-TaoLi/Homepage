@@ -6,23 +6,23 @@ author_profile: true
 
 1. Meng Li, Tao Li, Lili Yu. 2024. <a href="http://example.com">Retail Platform Analytics: Practice, Literature, and Future Research.</a> Production and Operations Management. Forthcoming.
 2. Jingna Ji, Tao Li*, Lei Yang. 2023. <a href="http://example.com">Pricing and Carbon Emission Reduction Strategies for Vertically
-Differentiated Firms under Cap-and-Trade Regulation</a>  Transportation Research Part E: Logistics
+Differentiated Firms under Cap-and-Trade Regulation.</a>  Transportation Research Part E: Logistics
 and Transportation Review, 171, 103064.
 3. Xi Shan, Tao Li, Suresh P. Sethi. 2022. <a href="http://example.com">A Responsive Pricing Retailer Sourcing from Competing
-Suppliers Facing Disruptions</a>Manufacturing & Service Operations Managementd, 24(1), 196-213.
-4. Meng Li, Tao Li*. 2022. <a href="http://example.com">AI Automation and Retailer Regret in Supply Chains</a> Production and
+Suppliers Facing Disruptions.</a> Manufacturing & Service Operations Managementd, 24(1), 196-213.
+4. Meng Li, Tao Li*. 2022. <a href="http://example.com">AI Automation and Retailer Regret in Supply Chains.</a> Production and
 Operations Management, 31(1), 83-97.
-5. Xiaolong Guo, Qian Gao, Tao Li, Yugang Yu. 2022. <a href="http://example.com">A Cash-strapped Creator’s Reward-based Crowdfunding and Spot Sales Strategies</a> Naval Research Logistics, 69(8), 1080-1095.
-6. Meng Li, Tao Li*. 2018. <a href="http://example.com">Consumer Search, Transshipment, and Bargaining Power in a Supply Chain</a>
+5. Xiaolong Guo, Qian Gao, Tao Li, Yugang Yu. 2022. <a href="http://example.com">A Cash-strapped Creator’s Reward-based Crowdfunding and Spot Sales Strategies.</a> Naval Research Logistics, 69(8), 1080-1095.
+6. Meng Li, Tao Li*. 2018. <a href="http://example.com">Consumer Search, Transshipment, and Bargaining Power in a Supply Chain.</a>
 International Journal of Production Research, 56(10), 3423-3438.
 7. Tao Li, Suresh P. Sethi, Jun Zhang. 2017. <a href="http://example.com">Mitigating Supply Uncertainty: The Interplay Between
-Diversification and Pricing</a> Production and Operations Management, 26(3), 369-388.
+Diversification and Pricing.</a> Production and Operations Management, 26(3), 369-388.
 The runner-up/honorable mention for 2018 POMS Wickham Skinner Best Paper Award.
-8. Tao Li, Suresh P. Sethi. 2017. <a href="http://example.com">A Review of Dynamic Stackelberg Game Models</a> Discrete and
+8. Tao Li, Suresh P. Sethi. 2017. <a href="http://example.com">A Review of Dynamic Stackelberg Game Models.</a> Discrete and
 Continuous Dynamical Systems - Series B, 22(1), 125-159.
 9. Tao Li, Suresh P. Sethi, Xiuli He. 2015. <a href="http://example.com">Dynamic Pricing, Production, and Channel Coordination with
-Stochastic Learning</a> Production and Operations Management, 24(6), 857-882.
-10. Tao Li, Suresh P. Sethi, Jun Zhang. 2014. <a href="http://example.com">Supply Diversification with Isoelastic Demand</a> International Journal of Production Economics, 157, 2-6.
+Stochastic Learning.</a> Production and Operations Management, 24(6), 857-882.
+10. Tao Li, Suresh P. Sethi, Jun Zhang. 2014. <a href="http://example.com">Supply Diversification with Isoelastic Demand.</a> International Journal of Production Economics, 157, 2-6.
 
 Submitted/Working papers
 ======
