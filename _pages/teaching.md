@@ -1,6 +1,5 @@
-
 ---
-permalink: /Industry/
+permalink: /industry/
 title: "Industry"
 author_profile: true
 ---
