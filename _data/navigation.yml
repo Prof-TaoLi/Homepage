@@ -15,7 +15,7 @@ main:
     url: /industry/    
     
   - title: "Awards"
-    url: /portfolio/
+    url: /awards/
         
   - title: "Interest"
     url: /interest/
