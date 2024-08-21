@@ -1,6 +1,7 @@
 ---
 title: 'Personal Interest'
 permalink: /interest/
+author_profile: true
 ---
 
 <div style="text-align: center;">
