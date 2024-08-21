@@ -19,6 +19,9 @@ main:
         
   - title: "Interest"
     url: /interest/
+  
+  - title: "Service"
+    url: /service/
     
   - title: "CV"
     url: https://www.scu.edu/media/leavey-school-of-business/isa/CV_Tao-Li_2024_Mar_homepage.pdf
