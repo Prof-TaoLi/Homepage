@@ -36,7 +36,12 @@ collection: portfolio
 <ul>
   <li><strong>Undergraduate Courses</strong></li>
   <ul>
-    <li>Computer Based Decision Models (OMIS 2355; Core Course for MS in Information Systems)</li>
+    <li>Predictive Analytics (OMIS 115; Undergraduate Core for Business Analytics)</li>
+    <li>Data Analytics with Python (OMIS 114; Undergraduate Core for Business Analytics)</li>
+    <li>Prescriptive Analytics (OMIS 109; Undergraduate Core for Business Analytics)</li>
+    <li>Operations Management (OMIS 108S; Undergraduate Core for Leavey Scholars & University Honors)</li>
+    <li>Sustainable Operations Management (OMIS 108E)</li>
+    <li>Operations Management (OMIS 108; Undergraduate Core for all business majors)</li>
   </ul>
 
   <li><strong>Master's Courses</strong></li>
@@ -44,7 +49,8 @@ collection: portfolio
     <li>Machine Learning with Python (MSIS 2508; Core Course for MS in Business Analytics)</li>
     <li>Data Analytics with Python (MSIS 2507; Core Course for MS in Business Analytics)</li>
     <li>Prescriptive Analytics (MSIS 2510; Core Course for MS in Business Analytics)</li>
-    <li>Dashboard with Tableau (MSIS 2529; Core Course for MS in Business Analytics)</li>
+    <li>Dashboards with Tableau (MSIS 2529; Core Course for MS in Business Analytics)</li>
+    <li>Computer Based Decision Models (OMIS 2355; Core Course for MS in Information Systems)</li>
   </ul>
 
   <li><strong>MBA Courses</strong></li>
