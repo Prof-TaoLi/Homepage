@@ -61,27 +61,3 @@ author_profile: true
     </ul>
   </li>
 </ul>
-
-<h1>Professional Roles</h1>
-
-<ul>
-  <li><strong>Senior Editor</strong>, Production and Operations Management, 2017 – Present</li>
-  <li><strong>Guest Associate Editor</strong>, Naval Research Logistics</strong>, 2018 – Present</li>
-  <li><strong>Associate Editor</strong>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</li>
-  <li><strong>Member of Editorial Review Board</strong>, Production and Operations Management, 2013 – Present</li>
-  <li><strong>Member of Editorial Advisory Board</strong>, Transportation Research Part E: Logistics and Transportation Review</strong>, 2019 – Present</li>
-  <li><strong>Fifteenth Annual International Conference of CSAMSE</strong>, July 2023</li>
-  <li><strong>Twelvth Annual International Conference of CSAMSE</strong>, July 2019</li>
-  <li><strong>Eleventh Annual International Conference of CSAMSE</strong>, July 2018</li>
-  <li><strong>Tenth Annual International Conference of CSAMSE</strong>, July 2017</li>
-  <li><strong>POMS Annual Meeting</strong>, May 2017 (Co-Chair)</li>
-  <li><strong>Eighth POMS-HK International Conference</strong>, January 2017</li>
-  <li><strong>Ninth Annual International Conference of CSAMSE</strong>, July 2016</li>
-  <li><strong>INFORMS International Meeting</strong>, June 2016</li>
-  <li><strong>POMS Annual Meeting</strong>, May 2016</li>
-  <li><strong>INFORMS Annual Meeting</strong>, November 2015</li>
-  <li><strong>Eighth Annual International Conference of CSAMSE</strong>, July 2015</li>
-  <li><strong>POMS Annual Meeting</strong>, May 2013</li>
-  <li><strong>INFORMS Annual Meeting</strong>, November 2011 (Co-Chair)</li>
-  <li>Ad-Hoc reviewer for various journals and organizations including Management Science, Operations Research, and more.</li>
-</ul>
