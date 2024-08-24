@@ -21,7 +21,7 @@ repository               : "Judydy0417/taolis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Tao Li"
   pronouns         : # example: "she/her"  
   bio              : "Director of MS Program in Business Analytics | Department of Information Systems and Analytics"
