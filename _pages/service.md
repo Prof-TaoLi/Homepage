@@ -1,9 +1,8 @@
 ---
 permalink: /service/
-title: "Service"
+title: "Professional Roles"
 author_profile: true
 ---
-<h1>Professional Roles</h1>
 
 <ul>
   <li><strong>Senior Editor</strong>, Production and Operations Management, 2017 – Present</li>
