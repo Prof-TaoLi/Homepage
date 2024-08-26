@@ -16,12 +16,13 @@ main:
     
   - title: "Awards"
     url: /awards/
-        
-  - title: "Interest"
-    url: /interest/
   
   - title: "Service"
     url: /service/
+    
+  - title: "Interest"
+    url: /interest/
+
     
   - title: "CV"
     url: "/images/CV_Tao-Li_2024_Aug_homepage.pdf"
