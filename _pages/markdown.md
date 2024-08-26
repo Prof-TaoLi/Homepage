@@ -32,7 +32,7 @@ collection: portfolio
 <hr>
 
 <h1>Courses</h1>
-
+<ul>
   <li><strong>Master's Courses</strong></li>
   <ul>
     <li>Machine Learning with Python (MSIS 2508; Core Course for MS in Business Analytics)</li>
@@ -41,7 +41,9 @@ collection: portfolio
     <li>Dashboards with Tableau (MSIS 2529; Core Course for MS in Business Analytics)</li>
     <li>Computer Based Decision Models (OMIS 2355; Core Course for MS in Information Systems)</li>
   </ul>
+</ul>
 
+<ul>
   <li><strong>MBA Courses</strong></li>
   <ul>
     <li>Business Analytics (OMIS 3000; Core Course for MBA)</li>
