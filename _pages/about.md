@@ -8,7 +8,7 @@ redirect_from:
 ---
 <ul>
   <p>
-    <a href="https://www.scu.edu/business/isa/faculty/li/">Tao Li</a> is the director of the <a href="https://www.scu.edu/business/ms/ms-business-analytics/">MS Program in Business Analytics</a> and an associate professor of <a href="https://www.scu.edu/business/isa/">Information Systems & Analytics</a> in the <a href="https://www.scu.edu/business/">Leavey School of Business</a> at <a href="https://www.scu.edu/">Santa Clara University</a>. He joined the Business School in Fall 2012 as an assistant professor after graduating with his Ph.D. from <a href="https://www.utdallas.edu/">The University of Texas at Dallas</a>.
+    <a href="https://www.scu.edu/business/isa/faculty/li/">Tao Li</a> is the director of the <a href="https://www.scu.edu/business/ms/ms-business-analytics/">MS Program in Business Analytics</a>, Co-Lead of <a href="https://www.scu.edu/business/faculty-research/plus-labs/#prometheus">Prometheus Lab for AI and Business</a>, and an Associate Professor of <a href="https://www.scu.edu/business/isa/">Information Systems & Analytics</a> in the <a href="https://www.scu.edu/business/">Leavey School of Business</a> at <a href="https://www.scu.edu/">Santa Clara University</a>. He joined the Business School in Fall 2012 as an assistant professor after graduating with his Ph.D. from <a href="https://www.utdallas.edu/">The University of Texas at Dallas</a>.
   </p>
 
   <p>
