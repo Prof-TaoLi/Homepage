@@ -22,17 +22,17 @@ author_profile: true
 Submitted/Working papers
 ======
 1. Tao Li, Dali Huang, Zhen He. Product Sharing: A Threat or an Opportunity for Vertically Differentiated
-Manufacturers? Under Review in <b>Production and Operations Management</b>.
+Manufacturers? Under Review in <i>Production and Operations Management</i>.
 2. Baozhuang Niu, Haotao Xu, Tao Li, Fanzhuo Zeng. Dual Sourcing with Probabilistic Selling: Will it
-Compensate for Heterogeneous Consumer Utility? Under Review in <b>Production and Operations Management</b>.
+Compensate for Heterogeneous Consumer Utility? Under Review in <i>Production and Operations Management</i>.
 3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. Pull-Push Strategies under Cournot Competition. Under
-Review in <b>Naval Research Logistics</b>.
+Review in <i>Naval Research Logistics</i>.
 4. Tao Li, Zhaoli Li, Guo Li, Yifan Xu. Personal Information Selling Strategy with Endogenous Privacy.
-Target Journal: <b>Management Science</b>.
+Target Journal: <i>Management Science</i>.
 5. Tao Li, Suresh P. Sethi.Coordinating Contracts and Feedback Stackelberg Equilibrium. Target Journal:
-<b>Production and Operations Management</b>.
+<i>Production and Operations Management</i>.
 6. Tao Li, Xiuli He, Suresh P. Sethi. Strategic Inventories with Stochastic Learning. Target Journal:
-<b>Management Science</b>.
+<i>Management Science</i>.
 
 Works in progress
 ======
