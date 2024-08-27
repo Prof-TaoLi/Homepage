@@ -10,5 +10,5 @@ author_profile: true
   <li><strong>Associate Editor</strong>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</li>
   <li><strong>Member of Editorial Review Board</strong>, Production and Operations Management, 2013 – Present</li>
   <li><strong>Member of Editorial Advisory Board</strong>, Transportation Research Part E: Logistics and Transportation Review, 2019 – Present</li>
-  <li>Ad-Hoc reviewer for various journals and organizations including Management Science, Operations Research, and more.</li>
+  <li>Ad-Hoc reviewer for various journals and organizations including National Science Foundation, Management Science, Operations Research, Manufacturing & Service Operations Management, and more.</li>
 </ul>
