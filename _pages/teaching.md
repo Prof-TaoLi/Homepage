@@ -14,8 +14,11 @@ author_profile: true
 
   <li><strong>Intuitive Surgical Ltd</strong>, Jan 2023 – Present
     <ul>
-      <li>Project Advisor: Developing predictive ML models for Accounts Receivable and analyzing speech transcripts for business insights.</li>
-      <li>Project Sponsor: Chris Halford (Sr Manager, Accounts Receivable), Brandon Lamm (Sr Manager, Investor Relations)</li>
+      <li>Project Advisor: Developing predictive ML models for Accounts Receivable team.</li>
+      <li>Project Sponsor: Chris Halford (Sr Manager, Accounts Receivable)</li>
+      <li>Project Advisor: Analyzing speech transcripts in the events of Earning’s Calls,
+investor conference,etc.</li>
+      <li>Brandon Lamm (Sr Manager, Investor Relations)</li>
     </ul>
   </li>
 
