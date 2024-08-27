@@ -23,7 +23,4 @@ redirect_from:
     Professor Li has supervised projects with companies such as Amazon Web Services (AWS), Adobe, Intuitive Surgical, Teladoc Health, Rubrik, Cloudera, Nuveen, and Atollogy. He serves as Senior Editor for Production and Operations Management, Associate Editor for Transportation Research Part E: Logistics and Transportation Review, and Guest Associate Editor for Naval Research Logistics. Additionally, he has been a regular reviewer for top journals including Management Science, Operations Research, and Manufacturing & Service Operations Management.
   </p>
 
-  <p>
-    JULY 2023
-  </p>
 </ul>
