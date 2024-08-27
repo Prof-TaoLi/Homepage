@@ -8,6 +8,7 @@ collection: portfolio
   <li><strong><a href="https://www.scu.edu/business/">Leavey School of Business, Santa Clara University</a></strong></li>
   <ul>
     <li>Director of MS Program in Business Analytics</li>
+    <li>Co-Lead of Prometheus Lab for AI and Business</li>
     <li>Coordinator of MBA Program Concentration in Data Sciences and Business Analytics</li>
     <li>Advisory Board Member of Ciocca Center for Innovation and Entrepreneurship</li>
     <li>Associate Professor (with Tenure)</li>
