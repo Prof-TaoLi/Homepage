@@ -6,6 +6,7 @@ author_profile: true
 
 <ul>
   <li>Member of INFORMS, MSOM, POMS, DSI, CSAMSE, Phi Kappa Phi, Beta Gamma Sigma</li>
+  <li>Tao Li (PI). SCU Leavey Research Grant ($5,000) 2024–2026</li>
   <li>Tao Li (PI). SCU Leavey Research Grant ($3,750) 2023–2025</li>
   <li>Tao Li (PI). SCU Leavey Research Grant ($3,000) 2023–2025</li>
   <li>Tao Li (PI). SCU University Research Grant ($3,920) 2023–2025</li>
