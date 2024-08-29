@@ -12,7 +12,7 @@ author_profile: true
     </ul>
   </li>
 
-<ul>
+
   <li><strong>Jibu Inc.</strong>, Jan 2024 – June 2024
     <ul>
       <li>Project Advisor: Supervised a project predicting purified water demand using ML models and visualized data through Tableau dashboards.</li>
