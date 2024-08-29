@@ -12,11 +12,17 @@ author_profile: true
     </ul>
   </li>
 
-  <li><strong>Intuitive Surgical Ltd</strong>, Jan 2023 – Present
+<ul>
+  <li><strong>Jibu Inc.</strong>, Jan 2024 – June 2024
     <ul>
-      <li>Project Advisor: Developing predictive ML models for Accounts Receivable team.</li>
-      <li>Project Sponsor: Chris Halford (Sr Manager, Accounts Receivable)</li>
-      <li>Project Advisor: Analyzing speech transcripts in the events of Earning’s Calls,
+      <li>Project Advisor: Supervised a project predicting purified water demand using ML models and visualized data through Tableau dashboards.</li>
+      <li>Project Sponsor: Antonia Nalunga (Chief Operations Officer)</li>
+    </ul>
+  </li>
+
+  <li><strong>Intuitive Surgical Ltd</strong>, Jan 2023 – June 2023
+    <ul>
+      <li>Project Advisor: Supervised a project Analyzing speech transcripts in the events of Earning’s Calls,
 investor conference,etc.</li>
       <li>Brandon Lamm (Sr Manager, Investor Relations)</li>
     </ul>
