@@ -1,72 +1,64 @@
 ---
-permalink: /industry/
-title: "Industry"
+permalink: /teaching/
 author_profile: true
+title: Academic Position
 ---
+  <li><strong><a href="https://www.scu.edu/business/">Leavey School of Business, Santa Clara University</a></strong></li>
+  <ul>
+    <li>Director of MS Program in Business Analytics</li>
+    <li>Co-Lead of Prometheus Lab for AI and Business</li>
+    <li>Coordinator of MBA Program Concentration in Data Sciences and Business Analytics</li>
+    <li>Advisory Board Member of Ciocca Center for Innovation and Entrepreneurship</li>
+    <li>Associate Professor (with Tenure)</li>
+    <li>Assistant Professor</li>
+  </ul>
 
-<ul>
-  <li><strong>Teladoc Health</strong>, Jan 2023 – Present
-    <ul>
-      <li>Project Advisor: Leading two projects involving AI, ML, NLP, and predictive modeling.</li>
-      <li>Project Sponsor: Arnnon Geshuri (Chief People Officer)</li>
-    </ul>
-  </li>
 
 
-  <li><strong>Jibu Inc.</strong>, Jan 2024 – June 2024
-    <ul>
-      <li>Project Advisor: Supervised a project predicting purified water demand using ML models and visualized data through Tableau dashboards.</li>
-      <li>Project Sponsor: Antonia Nalunga (Chief Operations Officer)</li>
-    </ul>
-  </li>
+  <li><strong><a href="https://www.fdsm.fudan.edu.cn/en/">School of Management, Fudan University</a></strong></li>
+  <ul>
+    <li>Visiting Professor, Aug 2018 – Sept 2018</li>
+  </ul>
 
-  <li><strong>Intuitive Surgical Ltd</strong>, Jan 2023 – June 2023
-    <ul>
-      <li>Project Advisor: Supervised a project Analyzing speech transcripts in the events of Earning’s Calls,
-investor conference,etc.</li>
-      <li>Brandon Lamm (Sr Manager, Investor Relations)</li>
-    </ul>
-  </li>
 
-  <li><strong>Amazon Web Services (AWS)</strong>, Jan 2022 – Jun 2023
-    <ul>
-      <li>Project Advisor: Supervised projects involving customer intelligence, earnings calls analysis, and ML applications on AWS SageMaker JumpStart.</li>
-      <li>Project Sponsor: Swati Choksi (Senior Leader, Solutions Architecture), Bratin Saha (VP and GM at Amazon), Sanjiv Das (Amazon Scholar)</li>
-    </ul>
-  </li>
 
-  <li><strong>Rubrik, Inc.</strong>, Jan 2022 – Jun 2022
-    <ul>
-      <li>Project Advisor: Supervised a project predicting pipeline to booking conversion ratios using ML models.</li>
-      <li>Project Sponsor: Sham Reddy (Director of Data, BI & Advanced Analytics)</li>
-    </ul>
-  </li>
+  <li><strong><a href="https://en.business.ustc.edu.cn/main.htm">School of Management, USTC</a></strong></li>
+  <ul>
+    <li>Visiting Professor, Jul 2018 – Aug 2018</li>
+  </ul>
 
-  <li><strong>Cloudera, Inc.</strong>, Jan 2022 – Jun 2022
-    <ul>
-      <li>Project Advisor: Supervised a project analyzing market segment penetration relative to competitors and using ML for opportunity sizing.</li>
-      <li>Project Sponsor: Thibault Aimé (Director of Corporate Strategy)</li>
-    </ul>
-  </li>
 
-  <li><strong>Adobe, Inc.</strong>, Jan 2021 – Dec 2021
-    <ul>
-      <li>Project Advisor: Supervised a project identifying customer cohorts with atypical product engagement patterns.</li>
-      <li>Project Sponsor: Matt Bergstrom (Director of Product & Customer Analytics)</li>
-    </ul>
-  </li>
+<hr>
 
-  <li><strong>Nuveen, A TIAA Company</strong>, Jan 2021 – Jun 2021
-    <ul>
-      <li>Project Advisor: Supervised a project building cross-sell & retention models and life cycle analytics.</li>
-      <li>Project Sponsor: Santanu Sengupta (Managing Director)</li>
-    </ul>
-  </li>
+<h1>Courses</h1>
 
-  <li><strong>Atollogy, Inc.</strong>, Jan 2019 – Dec 2020
-    <ul>
-      <li>Project Advisor: Supervised two projects, including dashboard development and ML model creation for license plate recognition.</li>
-      <li>Project Sponsor: Rob Schoenthaler (CEO)</li>
-    </ul>
-  </li>
-</ul>
+  <li><strong>Master's Courses</strong></li>
+  <ul>
+    <li>Machine Learning with Python (MSIS 2508; Core Course for MS in Business Analytics)</li>
+    <li>Data Analytics with Python (MSIS 2507; Core Course for MS in Business Analytics)</li>
+    <li>Prescriptive Analytics (MSIS 2510; Core Course for MS in Business Analytics)</li>
+    <li>Dashboards with Tableau (MSIS 2529; Core Course for MS in Business Analytics)</li>
+    <li>Computer Based Decision Models (OMIS 2355; Core Course for MS in Information Systems)</li>
+  </ul>
+
+
+
+  <li><strong>MBA Courses</strong></li>
+  <ul>
+    <li>Business Analytics (OMIS 3000; Core Course for MBA)</li>
+    <li>Operations Management (OMIS 3252; Core Course for MBA)</li>
+    <li>Analytical Decision Making (OMIS 3202; Core Course for MBA)</li>
+    <li>Operations Management (OMIS 3357; Core Course for Accelerated MBA)</li>
+  </ul>
+
+
+
+  <li><strong>Undergraduate Courses</strong></li>
+  <ul>
+    <li>Predictive Analytics (OMIS 115; Undergraduate Core for Business Analytics)</li>
+    <li>Data Analytics with Python (OMIS 114; Undergraduate Core for Business Analytics)</li>
+    <li>Prescriptive Analytics (OMIS 109; Undergraduate Core for Business Analytics)</li>
+    <li>Operations Management (OMIS 108S; Undergraduate Core for Leavey Scholars & University Honors)</li>
+    <li>Sustainable Operations Management (OMIS 108E)</li>
+    <li>Operations Management (OMIS 108; Undergraduate Core for all business majors)</li>
+  </ul>
