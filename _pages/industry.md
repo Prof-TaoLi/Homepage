@@ -1,3 +1,8 @@
+---
+permalink: /industry/
+title: Publications
+author_profile: true
+---
 <ul>
   <li><strong>Teladoc Health</strong>, Jan 2023 – Present
     <ul>
