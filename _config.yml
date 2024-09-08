@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tao Li, Ph.D"
+title                    : "  Tao Li, Ph.D"
 title_separator          : "-"
 name                     : &name "Tao Li"
 atom_feed.hide           : true
