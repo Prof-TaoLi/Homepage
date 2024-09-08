@@ -3,7 +3,8 @@ permalink: /teaching/
 author_profile: true
 title: Academic Position
 ---
-  <li><strong><a href="https://www.scu.edu/business/">Leavey School of Business, Santa Clara University</a></strong></li>
+<ul>
+ <li><strong><a href="https://www.scu.edu/business/">Leavey School of Business, Santa Clara University</a></strong></li>
   <ul>
     <li>Director of MS Program in Business Analytics</li>
     <li>Co-Lead of Prometheus Lab for AI and Business</li>
@@ -12,26 +13,27 @@ title: Academic Position
     <li>Associate Professor (with Tenure)</li>
     <li>Assistant Professor</li>
   </ul>
+</ul>
 
 
-
+<ul>
   <li><strong><a href="https://www.fdsm.fudan.edu.cn/en/">School of Management, Fudan University</a></strong></li>
   <ul>
     <li>Visiting Professor, Aug 2018 – Sept 2018</li>
   </ul>
+</ul>
 
-
-
+<ul>
   <li><strong><a href="https://en.business.ustc.edu.cn/main.htm">School of Management, USTC</a></strong></li>
   <ul>
     <li>Visiting Professor, Jul 2018 – Aug 2018</li>
   </ul>
-
+</ul>
 
 <hr>
 
 <h1>Courses</h1>
-
+<ul>
   <li><strong>Master's Courses</strong></li>
   <ul>
     <li>Machine Learning with Python (MSIS 2508; Core Course for MS in Business Analytics)</li>
@@ -40,9 +42,9 @@ title: Academic Position
     <li>Dashboards with Tableau (MSIS 2529; Core Course for MS in Business Analytics)</li>
     <li>Computer Based Decision Models (OMIS 2355; Core Course for MS in Information Systems)</li>
   </ul>
+</ul>
 
-
-
+ <ul>
   <li><strong>MBA Courses</strong></li>
   <ul>
     <li>Business Analytics (OMIS 3000; Core Course for MBA)</li>
@@ -50,9 +52,9 @@ title: Academic Position
     <li>Analytical Decision Making (OMIS 3202; Core Course for MBA)</li>
     <li>Operations Management (OMIS 3357; Core Course for Accelerated MBA)</li>
   </ul>
+</ul>
 
-
-
+<ul>
   <li><strong>Undergraduate Courses</strong></li>
   <ul>
     <li>Predictive Analytics (OMIS 115; Undergraduate Core for Business Analytics)</li>
@@ -62,3 +64,4 @@ title: Academic Position
     <li>Sustainable Operations Management (OMIS 108E)</li>
     <li>Operations Management (OMIS 108; Undergraduate Core for all business majors)</li>
   </ul>
+ </ul>
