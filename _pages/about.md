@@ -5,9 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  <p>
+
     <a href="https://www.scu.edu/business/isa/faculty/li/">Tao Li</a> is the director of the <a href="https://www.scu.edu/business/ms/ms-business-analytics/">MS Program in Business Analytics</a>, Co-Lead of <a href="https://www.scu.edu/business/faculty-research/plus-labs/#prometheus">Prometheus Lab for AI and Business</a>, and an Associate Professor of <a href="https://www.scu.edu/business/isa/">Information Systems & Analytics</a> in the <a href="https://www.scu.edu/business/">Leavey School of Business</a> at <a href="https://www.scu.edu/">Santa Clara University</a>. He joined the Business School in Fall 2012 as an assistant professor after graduating with his Ph.D. from <a href="https://www.utdallas.edu/">The University of Texas at Dallas</a>.
-  </p>
 
   <p>
     Professor Li’s research interests include sharing economy, crowdfunding, strategic sourcing, supply chain coordination, operations-marketing interface, sustainable operations management, and behavioral operations management. His scholarship has appeared in leading academic journals such as Production and Operations Management, Manufacturing & Service Operations Management, and the European Journal of Operational Research. His work has been supported by the Santa Clara University Research Grant and the Leavey Research Grant. He is the recipient of the Leavey School of Business Extraordinary Research Award multiple times.
