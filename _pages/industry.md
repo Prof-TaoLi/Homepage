@@ -1,6 +1,6 @@
 ---
 permalink: /industry/
-title: Publications
+title: Industry Experience
 author_profile: true
 ---
 <ul>
