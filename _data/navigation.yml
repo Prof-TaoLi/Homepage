@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /markdown/    
@@ -26,3 +26,4 @@ main:
     
   - title: "CV"
     url: "/images/CV_Tao-Li_2024_Aug_homepage.pdf"
+  
