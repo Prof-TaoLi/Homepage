@@ -5,7 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<ul>
   <p>
     <a href="https://www.scu.edu/business/isa/faculty/li/">Tao Li</a> is the director of the <a href="https://www.scu.edu/business/ms/ms-business-analytics/">MS Program in Business Analytics</a>, Co-Lead of <a href="https://www.scu.edu/business/faculty-research/plus-labs/#prometheus">Prometheus Lab for AI and Business</a>, and an Associate Professor of <a href="https://www.scu.edu/business/isa/">Information Systems & Analytics</a> in the <a href="https://www.scu.edu/business/">Leavey School of Business</a> at <a href="https://www.scu.edu/">Santa Clara University</a>. He joined the Business School in Fall 2012 as an assistant professor after graduating with his Ph.D. from <a href="https://www.utdallas.edu/">The University of Texas at Dallas</a>.
   </p>
@@ -21,5 +20,3 @@ redirect_from:
   <p>
     Professor Li has supervised projects with companies such as Amazon Web Services (AWS), Adobe, Intuitive Surgical, Teladoc Health, Rubrik, Cloudera, Nuveen, and Atollogy. He serves as Senior Editor for Production and Operations Management, Associate Editor for Transportation Research Part E: Logistics and Transportation Review, and Guest Associate Editor for Naval Research Logistics. Additionally, he has been a regular reviewer for top journals including Management Science, Operations Research, and Manufacturing & Service Operations Management.
   </p>
-
-</ul>
