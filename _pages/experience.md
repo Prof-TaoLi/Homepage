@@ -1,5 +1,5 @@
 ---
-permalink: /industry/
+permalink: /experience/
 title: Industry Experience
 author_profile: true
 ---
