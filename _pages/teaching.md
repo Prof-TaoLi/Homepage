@@ -1,8 +1,8 @@
 ---
 permalink: /teaching/
 author_profile: true
-title: Academic Position
 ---
+<h1>Academic Position</h1>
 <ul>
  <li><strong><a href="https://www.scu.edu/business/">Leavey School of Business, Santa Clara University</a></strong></li>
   <ul>
