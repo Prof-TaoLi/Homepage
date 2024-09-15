@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "      Tao Li, Ph.D"
+title                    : "Tao Li, Ph.D"
 title_separator          : "-"
 name                     : &name "Tao Li"
 atom_feed.hide           : true
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Tao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Director of MS Program in Business Analytics | Co-Lead of Prometheus Lab for AI and Business"
-  location         : "San Francisco Bay Area"
+  bio              : "Director of MS Program"
+  location         : "San Francisco"
   uri              : # URL
   email            : "tli1@scu.edu" 
 
