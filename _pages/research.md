@@ -22,13 +22,14 @@ author_profile: true
 Submitted/Working papers
 ======
 1. Tao Li, Dali Huang, Zhen He. “Product Sharing: A Threat or an Opportunity for Competing Manufac- turers?” Major Revision in <i>Production and Operations Management</i>.
-2. Baozhuang Niu, Haotao Xu, Tao Li, Fanzhuo Zeng. “Dual Sourcing with Probabilistic Selling: Will it Compensate for Heterogeneous Consumer Utility?” Reject and Resubmit in <i>Production and Operations Management</i>.
-3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. “Pull-Push Strategies under Cournot Competition.” Second Round of Review after Major Revision in <i>Omega</i>.
-4. Leiting Li, Min Huang, Tao Li*, Xingwei Wang. “Collection delivery points network two-way sharing in last-mile logistics market.” Under Review in <i>European Journal of Operational Research</i>.
-5. Wenchuan Qiao, Min Huang, Tao Li*. “Can Reinforcement Learning in Dynamic Pricing Avoid Unfair- ness?” Target Journal: <i>Management Science</i>.
-6. Tao Li, Zhaoli Li, Guo Li, Yifan Xu. “Personal Information Selling Strategy with Endogenous Privacy.” Target Journal: <i>Management Science</i>.
-7. Tao Li, Suresh P. Sethi. “Coordinating Contracts and Feedback Stackelberg Equilibrium.” Target Journal: <i>Production and Operations Management</i>.
-8. Tao Li, Xiuli He, Suresh P. Sethi. “Strategic Inventories with Stochastic Learning.” Target Journal: <i>Management Science</i>.
+2. Tao Li, Dali Huang, Zhen He. “Product Sharing: A Threat or an Opportunity for Competing Manufac- turers?” Major Revision in <i>Production and Operations Management</i>.
+3. Baozhuang Niu, Haotao Xu, Tao Li, Fanzhuo Zeng. “Dual Sourcing with Probabilistic Selling: Will it Compensate for Heterogeneous Consumer Utility?” Reject and Resubmit in <i>Production and Operations Management</i>.
+4. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. “Pull-Push Strategies under Cournot Competition.” Second Round of Review after Major Revision in <i>Omega</i>.
+5. Leiting Li, Min Huang, Tao Li*, Xingwei Wang. “Collection delivery points network two-way sharing in last-mile logistics market.” Under Review in <i>European Journal of Operational Research</i>.
+6. Wenchuan Qiao, Min Huang, Tao Li*. “Can Reinforcement Learning in Dynamic Pricing Avoid Unfair- ness?” Target Journal: <i>Management Science</i>.
+7. Tao Li, Zhaoli Li, Guo Li, Yifan Xu. “Personal Information Selling Strategy with Endogenous Privacy.” Target Journal: <i>Management Science</i>.
+8. Tao Li, Suresh P. Sethi. “Coordinating Contracts and Feedback Stackelberg Equilibrium.” Target Journal: <i>Production and Operations Management</i>.
+9. Tao Li, Xiuli He, Suresh P. Sethi. “Strategic Inventories with Stochastic Learning.” Target Journal: <i>Management Science</i>.
 
 Works in progress
 ======
