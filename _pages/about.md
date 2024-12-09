@@ -21,5 +21,5 @@ Professor Li has supervised various business analytics related projects with com
 </p>
 
 <p>
-He serves as Senior Editor for Production and Operations Management, Associate Editor for Decision Sciences, Associate Editor for Transportation Research Part E: Logistics and Transportation Review, and Guest Associate Editor for Naval Research Logistics. Additionally, he has been a regular reviewer for top journals including Management Science, Operations Research, and Manufacturing & Service Operations Management.
+Professor Li serves as Senior Editor for Production and Operations Management, Associate Editor for Decision Sciences, Associate Editor for Transportation Research Part E: Logistics and Transportation Review, and Guest Associate Editor for Naval Research Logistics. Additionally, he has been a regular reviewer for top journals including Management Science, Operations Research, and Manufacturing & Service Operations Management.
 </p>
