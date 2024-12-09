@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tao Li"
 atom_feed.hide           : true
 description              : &description "personal description"
-url                      : https://Prof-TaoLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Prof-TaoLi.github.io/Homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Prof-TaoLi/Homepage"
 
