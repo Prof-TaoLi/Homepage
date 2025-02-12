@@ -17,7 +17,7 @@ Professor Li teaches Machine Learning with Python, Data Analytics with Python, D
 </p>
   
 <p>
-Professor Li has supervised various business analytics related projects with companies such as Amazon Web Services (AWS), Adobe, Intuitive Surgical, Teladoc Health, Rubrik, Cloudera, Nuveen, and Atollogy. 
+Professor Li has supervised various business analytics related projects with companies such as Amazon Web Services (AWS), Roblox, DigitalOcean, Adobe, Intuitive Surgical, Teladoc Health, Rubrik, Cloudera, LatentView, Nuveen, and Atollogy. 
 </p>
 
 <p>
