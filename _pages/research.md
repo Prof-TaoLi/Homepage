@@ -21,11 +21,11 @@ author_profile: true
 
 Submitted/Working papers
 ======
-1. Tao Li, Dali Huang, Zhen He. “Product Sharing: A Threat or an Opportunity for Competing Manufac- turers?” Major Revision in <i>Production and Operations Management</i>.
-2. Baozhuang Niu, Haotao Xu, Tao Li, Fanzhuo Zeng. “Dual Sourcing with Probabilistic Selling: Will it Compensate for Heterogeneous Consumer Utility?” Reject and Resubmit in <i>Production and Operations Management</i>.
-3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. “Pull-Push Strategies under Cournot Competition.” Minor Revision in <i>Omega</i>.
+1. Tao Li, Dali Huang, Zhen He. “Product Sharing: A Threat or an Opportunity for Competing Manufac- turers?” Under the second round of review after Major Revision in <i>Production and Operations Management</i>.
+2. Baozhuang Niu, Haotao Xu, Tao Li, Fanzhuo Zeng. “Dual Sourcing with Probabilistic Selling: Will it Compensate for Heterogeneous Consumer Utility?” Under the second round of review after Major Revision in <i>Production and Operations Management</i>.
+3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. “Pull-Push Strategies under Cournot Competition.” Under the third round of review after Minor Revision in <i>Omega</i>.
 4. Leiting Li, Min Huang, Tao Li*, Xingwei Wang. “Collection delivery points network two-way sharing in last-mile logistics market.” Under Review in <i>European Journal of Operational Research</i>.
-5. Qian Gao, Xiaolong Guo, Tao Li, Yugang Yu. "Reward-based Crowdfunding to Strategic Consumers with Creator’s Own Assets and the Spot Sales." Under Review in <i>IEEE Transactions on Engineering Management<i>.
+5. Qian Gao, Xiaolong Guo, Tao Li, Yugang Yu. "Reward-based Crowdfunding to Strategic Consumers with Creator’s Own Assets and the Spot Sales." Under Major Revision in <i>IEEE Transactions on Engineering Management<i>.
 6. Wenchuan Qiao, Min Huang, Tao Li*. “Can Reinforcement Learning in Dynamic Pricing Avoid Unfairness?” Target Journal: <i>Management Science</i>.
 7. Tao Li, Zhaoli Li, Guo Li, Yifan Xu. “Personal Information Selling Strategy with Endogenous Privacy.” Target Journal: <i>Management Science</i>.
 8. Tao Li, Suresh P. Sethi. “Coordinating Contracts and Feedback Stackelberg Equilibrium.” Target Journal: <i>Production and Operations Management</i>.
