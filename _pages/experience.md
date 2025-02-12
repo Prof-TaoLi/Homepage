@@ -4,6 +4,39 @@ title: Industry Experience
 author_profile: true
 ---
 <ul>
+  <li><strong>Roblox</strong>, Jan 2025 – Present
+    <ul>
+      <li>Project Advisor: This project aims to develop a proof-of-concept solution that can 1. Automatically extract key themes and insights from session transcripts. 2. Conduct sentiment analysis to gauge participant
+reactions. 3. Flag critical moments of confusion, frustration, or emerging usability issues that may otherwise be overlooked. 4. Provide recommendations for integrating existing AI/NLP/LLM tools into the
+workflow.
+</li>
+      <li>Project Sponsor: Arvind KC (Chief People and Systems Officer)</li>
+    </ul>
+  </li>
+
+  <li><strong>DigitalOcean</strong>, Jan 2025 – Present
+    <ul>
+      <li>Project Advisor: This project aims to develop a user-friendly web interface that enables potential customers
+to upload receipts or invoices from major cloud computing providers (e.g., AWS, Azure, Google Cloud) and
+compare costs against DigitalOcean’s pricing. The system will leverage Large Language Models (LLM) for
+text extraction and processing, image recognition for parsing receipts, and a structured database to store
+and analyze pricing information.</li>
+      <li>Project Sponsor: Bratin Saha (Chief Product and Technology Officer)</li>
+    </ul>
+  </li>
+
+  <li><strong>LatentView</strong>, Jan 2025 – Present
+    <ul>
+      <li>Project Advisor: This project aims to develop a robust analytical framework that empowers marketers to
+optimize their campaigns by providing deep insights into key metrics such as brand performance, product
+categories, campaign timelines, marketing channels, costs, revenues, and profits. By aligning marketing
+strategies with broader objectives, this framework ensures campaigns are highly efficient, impactful, and
+focused on delivering meaningful business outcomes.
+</li>
+      <li>Project Sponsor: Prasun Velayudhan (Director, Global Business Unit Head)</li>
+    </ul>
+  </li>
+
   <li><strong>Teladoc Health</strong>, Jan 2023 – Present
     <ul>
       <li>Project Advisor: Leading two projects involving AI, ML, NLP, and predictive modeling.</li>
