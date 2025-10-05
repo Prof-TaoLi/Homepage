@@ -6,7 +6,7 @@ author_profile: true
 
 1. Tao Li, Dali Huang, Zhen He. 2025. Product Sharing: A Threat or an Opportunity for Competing Manufacturers? <b><i>Production and Operations Management.</i></b> Forthcoming.
 2. Qian Gao, Xiaolong Guo, Tao Li, Yugang Yu. 2025. Reward-based Crowdfunding to Strategic Consumers with Creator’s Own Assets and the Spot Sales. <b><i>IEEE Transactions on Engineering Management.</i></b> Forthcoming.
-3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. Pull-Push Strategies under Cournot Competition. <b><i>OMEGA - The International Journal of Management Science.</i></b> Forthcoming. 
+3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. 2025. Pull-Push Strategies under Cournot Competition. <b><i>OMEGA - The International Journal of Management Science.</i></b> Forthcoming. 
 4. Meng Li, Tao Li, Lili Yu. 2024. <a href="https://journals.sagepub.com/doi/abs/10.1177/10591478241238972">Retail Platform Analytics: Practice, Literature, and Future Research.</a> <b><i>Production and Operations Management.</i></b> Forthcoming.
 5. Jingna Ji, Tao Li*, Lei Yang. 2023. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1366554523000522">Pricing and Carbon Emission Reduction Strategies for Vertically Differentiated Firms under Cap-and-Trade Regulation.</a> <b><i>Transportation Research Part E: Logistics and Transportation Review,</i></b> 171, 103064.
 6. Xi Shan, Tao Li, Suresh P. Sethi. 2022. <a href="https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0934">A Responsive Pricing Retailer Sourcing from Competing Suppliers Facing Disruptions.</a> <b><i>Manufacturing & Service Operations Management,</i></b> 24(1), 196-213.
