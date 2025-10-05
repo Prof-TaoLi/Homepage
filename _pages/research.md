@@ -4,7 +4,7 @@ title: Publications
 author_profile: true
 ---
 
-1. Tao Li, Dali Huang, Zhen He. 2025. Product Sharing: A Threat or an Opportunity for Competing Manufac- turers? <b><i>Production and Operations Management.</i></b> Forthcoming.
+1. Tao Li, Dali Huang, Zhen He. 2025. Product Sharing: A Threat or an Opportunity for Competing Manufacturers? <b><i>Production and Operations Management.</i></b> Forthcoming.
 2. Qian Gao, Xiaolong Guo, Tao Li, Yugang Yu. 2025. Reward-based Crowdfunding to Strategic Consumers with Creator’s Own Assets and the Spot Sales. <b><i>IEEE Transactions on Engineering Management.</i></b> Forthcoming.
 3. Shujie Luan, Weili Xue, Lijun Ma, Tao Li*. Pull-Push Strategies under Cournot Competition. <b><i>OMEGA - The International Journal of Management Science.</i></b> Forthcoming. 
 4. Meng Li, Tao Li, Lili Yu. 2024. <a href="https://journals.sagepub.com/doi/abs/10.1177/10591478241238972">Retail Platform Analytics: Practice, Literature, and Future Research.</a> <b><i>Production and Operations Management.</i></b> Forthcoming.
