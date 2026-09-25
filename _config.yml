@@ -12,7 +12,7 @@ title                    : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tao Li, Ph
 title_separator          : "-"
 name                     : &name "Tao Li"
 atom_feed.hide           : true
-description              : &description "personal description"
+description              : &description "Tao Li is Professor of Information Systems and Analytics at Santa Clara University's Leavey School of Business, where he directs the MS Program in Business Analytics."
 url                      : https://Prof-TaoLi.github.io/Homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Prof-TaoLi/Homepage"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Tao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Director of MSBA Program"
-  location         : "San Francisco"
+  bio              : "Professor of Information Systems and Analytics<br>Director of MS Program in Business Analytics"
+  location         : "Santa Clara, CA"
   uri              : # URL
   email            : "tli1@scu.edu" 
 
